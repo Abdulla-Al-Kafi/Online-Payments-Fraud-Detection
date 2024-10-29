@@ -1,0 +1,17 @@
+# Credit Card Fraud Detection Project
+
+## Introduction
+This project was completed as part of my **Data Science (CSE437)** course. It aims to detect fraudulent credit card transactions by implementing existing machine learning models.
+
+## Dataset Description
+The dataset contains online payment-related transactional data, accessible via Kaggle. It includes:
+- **Rows**: 129,667 transactions, each representing a unique transaction.
+- **Columns**: Details about the client, transaction amount, payment method, and whether the transaction was fraudulent.
+- **Privacy**: All data is anonymized to ensure privacy and security.
+
+### Source
+- **Kaggle**: [Fraud Detection Dataset by Kartik Ahuja (2020)](https://www.kaggle.com/datasets/kartik2112/fraud-detection).
+
+## Project Overview
+This project involved implementing and evaluating machine learning models for fraud detection, focusing on data processing and model evaluation.
+
